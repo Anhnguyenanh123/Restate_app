@@ -32,12 +32,7 @@ export const GlobalProvider = ({children}: GlobalProviderProps) => {
 
     return (
         <GlobalContext.Provider
-            value={{
-                isLogged,
-                user,
-                loading,
-                refetch,
-            }}
+            value={{isLogged, user, loading, refetch}}
         >
             {children}
         </GlobalContext.Provider>
