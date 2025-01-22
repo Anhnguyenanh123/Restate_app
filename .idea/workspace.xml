@@ -5,7 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="02716d98-364e-4c2b-978f-5d40a5e873f4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/components/NoResult.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/data.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/seed.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/(root)/(tab)/explore.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/(root)/(tab)/explore.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/(root)/(tab)/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/(root)/(tab)/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Cards.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/Cards.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Filter.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/Filter.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/appwrite.ts" beforeDir="false" afterPath="$PROJECT_DIR$/lib/appwrite.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,25 +46,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "E:/real_estate_app",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "inlay.hints",
-    "ts.external.directory.path": "E:\\real_estate_app\\node_modules\\typescript\\lib",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/real_estate_app&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;inlay.hints&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;E:\\real_estate_app\\node_modules\\typescript\\lib&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\real_estate_app\app\(root)\(tab)" />
@@ -81,7 +89,8 @@
       <workItem from="1737476478571" duration="1118000" />
       <workItem from="1737477844027" duration="1814000" />
       <workItem from="1737479693195" duration="6757000" />
-      <workItem from="1737527879766" duration="9749000" />
+      <workItem from="1737527879766" duration="9998000" />
+      <workItem from="1737561378601" duration="4847000" />
     </task>
     <servers />
   </component>
